@@ -1,0 +1,13 @@
+Database name - ticket_reservation_system.sql
+
+admin login -
+admin01@gmail.com
+admin111
+
+customer login -
+customer01@gmail.com
+customer1
+
+driver login -
+driver1@gmail.com
+driver01
